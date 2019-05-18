@@ -1,9 +1,9 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'category1'
-    title: 'Category 1'
-  - key: 'category2'
-    title: 'Category 2'
+  - key: 'dev'
+    title: 'Dev'
+  - key: 'random'
+    title: 'Random'
 authors:
   - name: 'Author Two'
     avatar: 'assets/images/avatar.jpg'
