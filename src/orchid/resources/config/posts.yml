@@ -9,7 +9,7 @@ authors:
     avatar: 'assets/images/avatar.jpg'
     email: 'email@domain.tld'
 postPages:
-  author: 'Author One'
+  author: 'Danial Goodwin'
   layout: single
   components:
     - type: pageContent

@@ -1,8 +1,8 @@
 site:
   about:
-    siteName: 'Orchid Starter'
-    subtitle: 'Basic starter repo to get going with Orchid quickly'
-    siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
+    siteName: 'Goodwin'
+    subtitle: 'Think. Do. Learn.'
+    siteDescription: 'Reading isn''t free. The cost is opening your mind to a new perspective.'
     avatar: '/assets/media/logo.jpg'
 
 theme:
