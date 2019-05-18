@@ -1,18 +1,18 @@
 site:
   about:
-    siteName: 'Goodwin'
-    subtitle: 'Think. Do. Learn.'
+    siteName: 'Goodwin. Think. Do. Learn.'
+    subtitle: 'Reading isn''t free. The cost is opening your mind to a new perspective.'
     siteDescription: 'Reading isn''t free. The cost is opening your mind to a new perspective.'
     avatar: '/assets/media/logo.jpg'
 
 theme:
   social:
-    facebook: 'facebookUsername'
-    twitter: 'twitterHandle'
-    instagram: 'instagramHandle'
-    github: 'githubUsername'
+#    facebook: 'facebookUsername'
+    twitter: 'danialgoodwin'
+#    instagram: 'instagramHandle'
+    github: 'danialgoodwin'
     other:
-      - label: 'linkedin'
+      - label: 'example'
         link: 'https://www.example.com'
         icon: 'fa-tag'
   menu:
