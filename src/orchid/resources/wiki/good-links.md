@@ -20,7 +20,6 @@
   - [How we tripled our revenue by adding one button (Or the secret of the “Unlock All” button)](https://medium.com/@michaelsacca/how-we-tripled-our-revenue-by-adding-one-button-a8e04b2d85fe)
   - [How to Handle "It costs too much"](https://www.inc.com/geoffrey-james/how-to-handle-price-objections.html)
 - [Business Models](https://gist.github.com/ndarville/4295324)
-
 - [5 reasons why I won't steal your idea](http://stritar.net/Post/Five-reasons-why-I-will-not-steal-your-idea.aspx)
 - [Economics in One Lesson](http://steshaw.org/economics-in-one-lesson/)
 - [10 Ways to Make Money on the Side](https://money.howstuffworks.com/personal-finance/financial-planning/10-ways-make-money-on-the-side1.htm)
