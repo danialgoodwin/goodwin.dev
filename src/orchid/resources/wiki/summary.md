@@ -1,6 +1,7 @@
 
 Curated:
 
+- [Business](business.md)
 - [Good links](good-links.md)
 - [Tools](tools.md)
 
