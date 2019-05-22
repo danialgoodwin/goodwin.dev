@@ -2,9 +2,10 @@
 title: Initial Commit with Orchid and Netlify
 featuredImage: assets/media/pic01.jpg
 tags:
-    - dev
+    - jekyll
+    - netlify
+    - orchid
 ---
-
 For a long time now, I've been wanting to have my entire website's contents to be hosted in a git repository. My last setup, from a few years ago (danialgoodwin.com/blog) used Jekyll for the static site generation, but that didn't include a wiki, which I always love to have (and, I wanted a bit more).
 
 Now that I have this nice .dev TLD, it's time for more experiments from scratch!
