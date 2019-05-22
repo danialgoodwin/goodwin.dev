@@ -1,6 +1,9 @@
 # Food
 
 ## Recipe
+Each of these recipes have been used by me multiple delicious times. :)
+
+The steps for each recipe have been overly simplified. My method of cooking doesn't require such precision.
 
 ### Sugar Cookies
 
