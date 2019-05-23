@@ -6,26 +6,46 @@ Each of these recipes have been used by me multiple delicious times. :)
 The steps for each recipe have been overly simplified. My method of cooking doesn't require such precision.
 
 ### Sugar Cookies
-
-Ingredients:
-
-- Flour, milk, eggs 
+| Ingredients              |
+| ------------------------ |
+| 1.25 cups flour          |
+| 1 tsp baking powder      |
+| 1/2 cup butter, softened |
+| 3/4 cup white sugar      |
+| 1 egg                    |
+| 1/2 tsp vanilla extract  | 
 
 Let's begin!
+1. Preheat oven to 375° F
+2. In a medium bowl, mix flour and baking powder
+3. In a large bowl, mix butter and sugar, then add eggs and vanilla
+4. Gradually blend dry ingredients into the large bowl
+5. Put dough on aluminum-foil-lined cookie sheets
+6. Bake for 8-10 minutes, then let cool on sheets for 2 minutes
 
-1. Mix
-2. Bake
+Tip:
+- For gooey-er cookies, don't press down on the cookie on the pan
+- Cookies may not look done in the oven, but that's okay for soft cookies
+- Using 1/4 cup less flour means the cookies will flatten more when cooking (I ran out of flour and I wanted cookies! :p) 
 
 ### Pancakes
-
-Ingredients:
-
-- Flour, milk, eggs
+| Dry Ingredients     | Wet ingredients |
+| ------------------- | --------------- |
+| 1 cup flour         | 1 egg           |
+| 2 tbsp sugar        | 1 cup milk |
+| 2 tsp baking powder | 2 tbsp butter (softened) or oil |
+| 1 tsp salt          | (Optional) 1 tsp vanilla extract |
 
 Let's begin!
+1. In a medium bowl, mix the dry ingredients
+2. In a large bowl, mix the wet ingredients
+3. Mix all ingredients in the large bowl
+4. Cook on a greased pan (or 2 pans)
 
-1. Mix
-2. Bake
+Tip:
+- In order to keep all pancakes warm until the end, keep the finished pancakes warm in 200° oven, covered in aluminum foil
+- Over-mixing results in flatter pancakes
+
 
 ## Health
 
