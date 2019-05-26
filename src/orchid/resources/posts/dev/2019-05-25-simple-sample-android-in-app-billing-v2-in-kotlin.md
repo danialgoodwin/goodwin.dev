@@ -21,6 +21,7 @@ Or...
 I can just provide the highlights and updated code that will actually work...
 - Product IDs must be unique and can NOT be reused. Product IDs must start with a lowercase letter or a number and must be composed of only lowercase letters (a-z), numbers (0-9), underscores (_), and periods (.). The product ID 'android.test' is unavailable for use, along with all product IDs that start with 'android.test'.
 - Subscriptions can NOT be unpublished
+- Subscription prices must be within a certain price range, US currently USD .99 - 400.00: https://support.google.com/googleplay/android-developer/table/3541286
 - The easiest way to test your purchase flow is to have testers defined in the Google Play Console > Settings > Developer account > Account details > License Testing > 'Gmail accounts with testing access'
 
 Code:
