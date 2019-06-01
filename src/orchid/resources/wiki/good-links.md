@@ -1,5 +1,8 @@
 # Good Links
 
+## Great Videos
+- `Video` [Jonathan Blow - Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
+
 ## Automatically generate papers
 - https://en.wikipedia.org/wiki/SCIgen
 - https://pdos.csail.mit.edu/archive/scigen/
