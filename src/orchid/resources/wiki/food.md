@@ -46,6 +46,10 @@ Tip:
 - In order to keep all pancakes warm until the end, keep the finished pancakes warm in 200° oven, covered in aluminum foil
 - Over-mixing results in flatter pancakes
 
+### Loaded Nachos
+1. In a large plate or serving plate, add nachos, salsa, chopped bell peppers, guacamole, rinsed and drained black beans, and a drizzle of queso.
+2. (Optional) Squeeze a few wedges of lime over the nachos.
+
 
 ## Health
 
