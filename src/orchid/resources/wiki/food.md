@@ -45,6 +45,8 @@ Let's begin!
 Tip:
 - In order to keep all pancakes warm until the end, keep the finished pancakes warm in 200° oven, covered in aluminum foil
 - Over-mixing results in flatter pancakes
+- For fluffier pancakes, replace the water/milk with plain sparkling water
+- Adding twice as much baking powder showed no noticable difference
 
 ### Loaded Nachos
 1. In a large plate or serving plate, add nachos, salsa, chopped bell peppers, guacamole, rinsed and drained black beans, and a drizzle of queso.
