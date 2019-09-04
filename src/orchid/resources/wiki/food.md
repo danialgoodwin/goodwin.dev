@@ -5,6 +5,27 @@ Each of these recipes have been used by me multiple delicious times. :)
 
 The steps for each recipe have been overly simplified. My method of cooking doesn't require such precision.
 
+### Chocolate Brownies
+| Ingredients              |
+| ------------------------ |
+| 1/2 cup butter, softened |
+| 1 cup white sugar        |
+| 2 eggs                   |
+| (optional) 1 tsp vanilla extract  |
+| 1/2 cup flour            |
+| 1/3 cup cocoa powder     |
+| (optional) 1/4 tsp salt  |
+| (optional) 1/4 tsp baking powder  |
+
+1. Preheat oven to 350° F
+2. In a large bowl, mix butter and sugar, then mix in eggs and vanilla
+3. In a medium bowl, mix flour, cocoa, salt, baking powder
+4. Gradually blend dry ingredients into the large bowl
+5. Put mixture in 9x9 aluminum-foil-lined pan, then bake for 20-25 minutes
+
+Tip:
+- The aluminum foil helps the brownie to stay moist, as opposed to drying out more on the edges
+
 ### Sugar Cookies
 | Ingredients              |
 | ------------------------ |
