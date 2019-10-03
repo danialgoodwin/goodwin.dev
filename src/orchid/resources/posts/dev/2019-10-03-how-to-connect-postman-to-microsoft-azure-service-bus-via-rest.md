@@ -72,6 +72,10 @@ The title says it all, so let's jump right in! Hopefully, I haven't missed any s
     - The response status will be '201 Created' if completed successfully
 
 
+I ran into a few issues when learning about connecting Postman with Azure Service Bus via REST. Just about all articles where out-of-date or had some wrong information in it. I'll just summarize a few of the issues here:
+- In REST requests, the `resource` parameter has been removed and changed to `scope`, and they have completely different values. More info: 
+- Other protocol changes: https://docs.microsoft.com/en-us/azure/active-directory/develop/azure-ad-endpoint-comparison#protocol-changes
+
 Helpful Resources:
 - https://stackoverflow.com/questions/50914924/send-msg-to-azure-service-bus-que-via-rest
 - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas#use-the-shared-access-signature-at-http-level
