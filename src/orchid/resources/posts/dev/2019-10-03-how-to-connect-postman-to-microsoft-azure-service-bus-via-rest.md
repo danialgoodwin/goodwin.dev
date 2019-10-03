@@ -73,6 +73,7 @@ The title says it all, so let's jump right in! Hopefully, I haven't missed any s
     - The response status will be '201 Created' if completed successfully
 
 Helpful Resources:
+- [Azure Service Bus REST API](https://docs.microsoft.com/en-us/rest/api/servicebus/)
 - https://docs.microsoft.com/en-us/rest/api/servicebus/send-message-to-queue
     - This source mentions authorization must be either a WRAP token or SAS token. I take this as the reason I wasn't able to get a regular JWT bearer token working, which does work with Resource Management API.
 - https://stackoverflow.com/questions/50914924/send-msg-to-azure-service-bus-que-via-rest
