@@ -66,8 +66,9 @@ The title says it all, so let's jump right in! Hopefully, I haven't missed any s
     2. URL: `https://<service namespace>.servicebus.windows.net/<topic name or queue>/messages` (Ex: `https://myservicebus.servicebus.windows.net/my-topic/messages`)
     3. Headers:
         - Authorization: `SharedAccessSignature sr=https%3a%2f%2f<service namespace>.servicebus.windows.net%2f<topic name or queue>%2fmessages&sig=<signature hash>&se=<expiry time>&skn=<signature key name>` (Ex: `SharedAccessSignature sr=https%3a%2f%2fmyservicebus.servicebus.windows.net%2fmy-topic%2fmessages&sig=z4C.....3d&se=1570147127&skn=RootManageSharedAccessKey`)
+            - Note: It is required that the URL is encoded
         - Content-Type: application/xml
-    4. Body: Set to 'raw' and add something similar to the following: `<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">This is message.</string>`
+    4. Body: Set to 'raw' and add something similar to the following: `<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">This is an example message.</string>`
 3. In Postman, click 'Send'!
     - The response status will be '201 Created' if completed successfully
 
