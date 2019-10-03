@@ -8,7 +8,7 @@ tags:
 - postman
 ---
 
-The title says it all, so let's jump right in!
+The title says it all, so let's jump right in! Hopefully, I haven't missed any steps, but it's possible. So, let me know if there are any issues or if there are any steps that I should clarify.
 
 1. Create Azure Service Bus
     1. In portal.azure.com, create a new 'Service Bus' resource (choose the 'Standard' pricing tier or higher if you want to use Service Bus Topics)
@@ -57,7 +57,7 @@ The title says it all, so let's jump right in!
             }
             
     2. In the code, update the fields:
-        - `queueUrl`: Find this value
+        - `queueUrl`: Find this value in Azure Portal > your Service Bus Namespace > 'Queues' or 'Topics', then click on the specific entity, then copy the value for 'Queue URL' or 'Topic URL'
         - `signatureKeyName`: Find this value in Azure Portal > your Service Bus Namespace > 'Shared access policies', then under the 'Policy' column
         - `signatureKey`: Find this value after clicking on the key from above, then use either 'Primary Key' or 'Secondary Key'
     3. Run the code. Save the output for the next step 'Setup Postman'
@@ -73,11 +73,7 @@ The title says it all, so let's jump right in!
 
 
 Helpful Resources:
-- 
 - https://stackoverflow.com/questions/50914924/send-msg-to-azure-service-bus-que-via-rest
 - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas#use-the-shared-access-signature-at-http-level
     - Note: There's a note there about using OAuth 2.0 instead of SAS, but I haven't gotten the OAuth method working yet.
 - Helpful for using Resource Management via Postman: [Azure REST APIs with Postman](https://blog.jongallant.com/2017/11/azure-rest-apis-postman/)
-
-Unhelpful Resources:
-- a
