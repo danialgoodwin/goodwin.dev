@@ -6,7 +6,7 @@ categories:
     title: 'Random'
 authors:
   - name: 'Author Two'
-    avatar: 'assets/media/avatar.png'
+    avatar: 'assets/media/avatar2.png'
     email: 'email@domain.tld'
 postPages:
   author: 'Danial Goodwin'
