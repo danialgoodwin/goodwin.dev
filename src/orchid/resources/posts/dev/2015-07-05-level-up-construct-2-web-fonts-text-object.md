@@ -16,5 +16,4 @@ More info:
 - [Using web fonts in the Text object](https://www.scirra.com/tutorials/236/using-web-fonts-in-the-text-object)
 - [Manual:Text object](https://www.scirra.com/manual/116/text)
 
-
-    < Danial Goodwin >
+`< Danial Goodwin >`

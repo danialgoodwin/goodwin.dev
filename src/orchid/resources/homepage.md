@@ -18,4 +18,4 @@ I'm a computer engineer and I will make time to learn new things in both dev and
 
 Each post will have my biggest takeaways. Basically, the information that I would have wanted to know to save myself from going through it all. Aka, high value information to words ratio.
 
-    < Danial Goodwin >
+`< Danial Goodwin >`
