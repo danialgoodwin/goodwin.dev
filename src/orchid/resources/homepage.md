@@ -12,16 +12,10 @@ components:
 next: 'category1'
 ---
 
-Thanks for trying out Orchid! Feel free to take a look around, then head over to the 
-{{ anchor(title='User Manual', collectionId='external', itemId='user-manual') }} to learn more about using Orchid to make 
-your site truly unique. While you're there, check out all our many great 
-{{ anchor(title='plugins', collectionId='external', itemId='Plugins') }} and browse our beautiful 
-{{ anchor(title='themes', collectionId='external', itemId='Themes') }} to see if there's one that catches your eye.
+Learning is a very important process. Sometimes, we may feel that we don't have enough time to learn things apart from our core job functions. Wouldn't summaries on summaries be nice?
 
-And finally, if you like Orchid, please support it by starring it on [Github](https://github.com/JavaEden/Orchid) and 
-sharing a link on Twitter: <a 
-    href="https://twitter.com/share?ref_src=twsrc%5Etfw" 
-    class="twitter-share-button" 
-    data-text="Check out the site I just made with @OrchidSSG, a new Static Site Generator for Java and Kotlin!" 
-    data-url="{{site.baseUrl}}" data-show-count="false">Tweet</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I'm a computer engineer and I will make time to learn new things in both dev and non-dev areas. I plan on using this site to share the best of the dev things that I learn.
+
+Each post will have my biggest takeaways. Basically, the information that I would have wanted to know to save myself from going through it all. Aka, high value information to words ratio.
+
+     - Danial Goodwin -
