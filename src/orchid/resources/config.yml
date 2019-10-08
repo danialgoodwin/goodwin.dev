@@ -7,9 +7,7 @@ site:
 
 theme:
   social:
-#    facebook: 'facebookUsername'
     twitter: 'danialgoodwin'
-#    instagram: 'instagramHandle'
     github: 'danialgoodwin'
     other:
       - label: 'example'

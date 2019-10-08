@@ -16,17 +16,12 @@ cd goodwin.dev
 
 ### Development
 
+    git commit -am "..."
+
 ### Testing
+
+    yes
 
 ### Deployment
 
-
-## Example Orchid Sites
-
-* [Official Orchid documentation](https://orchid.netlify.com/)
-* [caseyjbrooks.com](https://www.caseyjbrooks.com/)
-* [pebbletemplates.io](https://pebbletemplates.io/)
-* [strikt.io](https://strikt.io/)
-* [Krow documentation](https://copper-leaf.github.io/krow/)
-* [Trellis documentation](https://copper-leaf.github.io/trellis/)
-* [Clog documentation](https://javaeden.github.io/Clog/)
+    git push
