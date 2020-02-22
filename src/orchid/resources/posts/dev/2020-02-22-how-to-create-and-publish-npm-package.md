@@ -75,3 +75,4 @@ Congrats on creating your new npm package! :)
     - https://zellwk.com/blog/publishing-npm-packages-that-can-be-used-in-browsers-and-node/
 - Great: https://webpack.js.org/guides/author-libraries/
 - Great: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
+    - Includes great additions for automating the build and publish process
