@@ -2,6 +2,7 @@
 title: How to create and publish a NPM package
 tags:
 - npm
+- JavaScript
 ---
 
 Assuming that you already have `npm` installed, then creating and publishing a new npm package is really easy and fast. Keep in mind that these are the minimum recommended steps, and I'll provide more resources at the bottom for more configuration options and deeper dives.
