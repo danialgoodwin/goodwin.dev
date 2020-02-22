@@ -4,7 +4,7 @@ tags:
 - npm
 ---
 
-Assuming you already have `npm` installed, then creating and publishing a new npm package is really easy and fast. Keep in mind that these are the minimum recommended steps, and I'll provide more resources at the bottom for more configurations and deeper dives.
+Assuming that you already have `npm` installed, then creating and publishing a new npm package is really easy and fast. Keep in mind that these are the minimum recommended steps, and I'll provide more resources at the bottom for more configuration options and deeper dives.
 
 The first section show how to publish the npm package, then the second section shows how to use it in another JavaScript project.
 
