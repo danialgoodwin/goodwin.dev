@@ -6,7 +6,7 @@ tags:
 - JavaScript
 ---
 
-Let jump right in! Here's the minimal steps to get Google Maps showing in a Power BI custom visual...
+Let jump right in! Here's the minimal steps to get Google Charts showing in a Power BI custom visual...
 
 The main Microsoft Power BI resource that I used for learning how to create custom visuals: https://docs.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial
 
