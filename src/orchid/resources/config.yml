@@ -16,6 +16,7 @@ theme:
   menu:
     - type: 'taxonomy'
       taxonomyType: 'categories'
+      includeTerms: true
       termsAtRoot: true
     - type: "wikiSections"
     - type: "pages"
