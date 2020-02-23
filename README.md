@@ -25,3 +25,7 @@ cd goodwin.dev
 ### Deployment
 
     git push
+
+
+# TODO
+- Maybe support offline documentation via PDF: https://orchid.run/plugins/orchidwiki#offline-documentation
