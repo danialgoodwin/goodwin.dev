@@ -78,3 +78,19 @@ The main Microsoft Power BI resource that I used for learning how to create cust
 
 5. In your Power BI report, refresh the developer visual, and see that the Google Charts are showing!
 6. To load data from Power BI rather than locally, please continue with Microsoft's walkthrough, [Process data in the visual code](https://docs.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial#process-data-in-the-visual-code)
+
+## Bonus
+If you want to add a nice border around your chart, then use something similar to this:
+
+    private readonly chartElement: HTMLElement
+
+    constructor(options: VisualConstructorOptions) {
+        const target = options.element
+        this.chartElement = document.createElement('div');
+        this.chartElement.style.border = "1px solid rgba(0,0,0,.125)"
+        this.chartElement.style.boxShadow = "0 1px 2px 0 rgba(0, 0, 0, 0.2)"
+        this.chartElement.style.borderRadius = "4px"
+        this.chartElement.style.padding = "30px"
+        target.appendChild(this.chartElement)
+    }
+
