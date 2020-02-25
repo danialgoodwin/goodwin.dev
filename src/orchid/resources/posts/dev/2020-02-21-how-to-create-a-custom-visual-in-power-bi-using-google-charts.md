@@ -77,6 +77,7 @@ The main Microsoft Power BI resource that I used for learning how to create cust
                 }
 
 5. In your Power BI report, refresh the developer visual, and see that the Google Charts are showing!
+    - Note: The `pbiviz start` output mentions 'https://localhost:8080/webpack-dev-server/', but that only shows a directory, and not the actual chart.
 6. To load data from Power BI rather than locally, please continue with Microsoft's walkthrough, [Process data in the visual code](https://docs.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial#process-data-in-the-visual-code)
 
 ## Bonus
