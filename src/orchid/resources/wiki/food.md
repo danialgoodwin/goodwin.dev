@@ -73,6 +73,22 @@ Tip:
 1. In a large plate or serving plate, add nachos, salsa, chopped bell peppers, guacamole, rinsed and drained black beans, and a drizzle of queso.
 2. (Optional) Squeeze a few wedges of lime over the nachos.
 
+### Sweet Potato Pizza
+| Ingredients              |
+| ------------------------ |
+| Sweet potatoes           |
+| Pizza sauce              |
+| Mozzarella cheese        |
+| Oil                      |
+| Salt and pepper          |
+| Optional pizza toppings  |
+
+Let's begin!
+1. Slice 1/2 inch thick sweet potato rounds
+2. Toss with oil, salt, and pepper
+3. Place on parchment paper lined baking sheets and roast for 35-40 minutes at 375 F, flip after 25 minutes
+4. Add toppings, and bake for another 3-5 minutes, or until cheese is melted
+
 
 ## Health
 
