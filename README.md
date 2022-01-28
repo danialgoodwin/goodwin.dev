@@ -29,3 +29,10 @@ cd goodwin.dev
 
 # TODO
 - Maybe support offline documentation via PDF: https://orchid.run/plugins/orchidwiki#offline-documentation
+
+TODO: Eventually add the following that currently scattered about
+    - notes (links)
+    - ideas
+    - blog
+    - cheat-sheets
+    - pages (motivation, interests, projects, recipes?)
