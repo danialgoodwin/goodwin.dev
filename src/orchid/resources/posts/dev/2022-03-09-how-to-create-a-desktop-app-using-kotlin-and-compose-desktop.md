@@ -85,7 +85,7 @@ Let's quickly and simply create a desktop app using Kotlin and Compose for Deskt
 
     ![Kotlin Compose for Desktop - Add TopAppBar](/assets/media/kotlin-compose-for-desktop--add-topappbar.png)
 
-To learn more about the available GUIs and views, see https://developer.android.com/jetpack/compose/layouts
+To learn more about the available GUIs and views, see [https://developer.android.com/jetpack/compose/layouts](https://developer.android.com/jetpack/compose/layouts)
 
 <hr>
 
@@ -95,6 +95,6 @@ Now, let's create the executable file and run the app on the desktop!
 2. Confirm that your runnable app is in 'build/compose/binaries/main/app/'
 3. If you are on Windows, then run the EXE (or MSI) file. The other supported targets/platforms are macOS (.dmg, .pkg) and Linux (.deb, .rpm)
 
-To learn more about the distributions and local executions, see https://github.com/JetBrains/compose-jb/blob/master/tutorials/Native_distributions_and_local_execution/README.md
+To learn more about the distributions and local executions, see [https://github.com/JetBrains/compose-jb/blob/master/tutorials/Native_distributions_and_local_execution/README.md](https://github.com/JetBrains/compose-jb/blob/master/tutorials/Native_distributions_and_local_execution/README.md)
 
 Congrats for making your first Kotlin desktop app! Feel free to reach out for any questions, comments, or support. :)
