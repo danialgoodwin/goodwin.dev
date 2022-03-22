@@ -40,5 +40,19 @@ Some ideas for future performance enhancements:
 - Use co-routines (multiple threads), but that's only a linear improvement
 - Create a custom `java.math.MutableBigInteger`. `BigInteger` creates a copy on many operations.
 - Find out exactly what operations are exponential and improve that
+ 
+
+    fun BigInteger.isSquare_ideas(): Boolean {
+        // Idea 1:
+        return this.sqrtAndRemainder()[1] == BigInteger.ZERO
+        // Idea 2:
+        // val bits = this.bitLength()
+        // for (i in 0 until bits) {
+        //     if (this.testBit(i)) return false
+        // }
+        // return true
+        // Idea 3:
+        // return this.lowestSetBit == this.bitLength() - 1
+    }
 
 To learn more about Fermat's factorization method, see Wikipedia: [https://en.wikipedia.org/wiki/Fermat%27s_factorization_method](wikipedia.org/wiki/Fermat%27s_factorization_method)
